@@ -11,7 +11,6 @@ import lombok.Data;
 import lombok.ToString;
 
 @Entity
-@Data
 @Table(name = "COURSE")
 public class Course {
 
